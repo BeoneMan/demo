@@ -1,22 +1,65 @@
 {
   "getBaseCategoryList": {
-  code: 200
-  message: "成功"
-  data: [
-  {
-  categoryChild: [
-  {
-    categoryChild:[
-  {
-        categoryName: "电子书",
-        categoryId: 1
-  },…],
-    categoryName: "电子书刊",
-    categoryId: 1
-  },…],
-  categoryName: "图书、音像、电子书刊",
-  categoryId: 1
-  }],
-  ok: true
+    "code": 200,
+    "message": "成功",
+    "data": [
+      {
+        "categoryChild": [
+          {
+            "categoryChild": [
+              {
+                "categoryName": "婚恋/两性",
+                "categoryId": 1
+              },
+              {
+                "categoryName": "文学",
+                "categoryId": 2
+              },
+              {
+                "categoryName": "经管",
+                "categoryId": 3
+              },
+              {
+                "categoryName": "畅读VIP",
+                "categoryId": 4
+              }
+            ],
+            "categoryName": "电子书刊",
+            "categoryId": 1
+          }
+        ],
+        "categoryName": "图书、音像、数字商品",
+        "categoryId": 1
+      },
+      {
+        "categoryChild": [
+          {
+            "categoryChild": [
+              {
+                "categoryName": "通俗流行",
+                "categoryId": 1
+              },
+              {
+                "categoryName": "古典音乐",
+                "categoryId": 2
+              },
+              {
+                "categoryName": "摇滚说唱",
+                "categoryId": 3
+              },
+              {
+                "categoryName": "爵士蓝调",
+                "categoryId": 4
+              }
+            ],
+            "categoryName": "数字音乐",
+            "categoryId": 1
+          }
+        ],
+        "categoryName": "音乐",
+        "categoryId": 2
+      }
+    ],
+    "ok": true
   }
 }
