@@ -58,6 +58,117 @@
         ],
         "categoryName": "音乐",
         "categoryId": 2
+      },
+      {
+        "categoryChild": [
+          {
+            "categoryChild": [
+              {
+                "categoryName": "通俗流行",
+                "categoryId": 1
+              },
+              {
+                "categoryName": "古典音乐",
+                "categoryId": 2
+              },
+              {
+                "categoryName": "摇滚说唱",
+                "categoryId": 3
+              },
+              {
+                "categoryName": "爵士蓝调",
+                "categoryId": 4
+              }
+            ],
+            "categoryName": "数字音乐",
+            "categoryId": 1
+          }
+        ],
+        "categoryName": "音乐",
+        "categoryId": 3
+      },
+      {
+        "categoryChild": [
+          {
+            "categoryChild": [
+              {
+                "categoryName": "通俗流行",
+                "categoryId": 1
+              },
+              {
+                "categoryName": "古典音乐",
+                "categoryId": 2
+              },
+              {
+                "categoryName": "摇滚说唱",
+                "categoryId": 3
+              },
+              {
+                "categoryName": "爵士蓝调",
+                "categoryId": 4
+              }
+            ],
+            "categoryName": "数字音乐",
+            "categoryId": 1
+          }
+        ],
+        "categoryName": "音乐",
+        "categoryId": 4
+      },
+      {
+        "categoryChild": [
+          {
+            "categoryChild": [
+              {
+                "categoryName": "通俗流行",
+                "categoryId": 1
+              },
+              {
+                "categoryName": "古典音乐",
+                "categoryId": 2
+              },
+              {
+                "categoryName": "摇滚说唱",
+                "categoryId": 3
+              },
+              {
+                "categoryName": "爵士蓝调",
+                "categoryId": 4
+              }
+            ],
+            "categoryName": "数字音乐",
+            "categoryId": 1
+          }
+        ],
+        "categoryName": "音乐",
+        "categoryId": 5
+      },  {
+        "categoryChild": [
+          {
+            "categoryChild": [
+              {
+                "categoryName": "通俗流行",
+                "categoryId": 1
+              },
+              {
+                "categoryName": "古典音乐",
+                "categoryId": 2
+              },
+              {
+                "categoryName": "摇滚说唱",
+                "categoryId": 3
+              },
+              {
+                "categoryName": "爵士蓝调",
+                "categoryId": 4
+              }
+            ],
+            "categoryName": "数字音乐",
+            "categoryId": 1
+          }
+        ],
+        "categoryName": "音乐",
+        "categoryId": 6
       }
     ],
     "ok": true
